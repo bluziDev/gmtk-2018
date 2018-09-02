@@ -245,8 +245,10 @@
     <instance objName="obj_crate_large" x="288" y="48" name="inst_4DE0C70C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
     <instance objName="obj_hider_crate" x="32" y="32" name="inst_54D21B4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_hider_crate" x="288" y="144" name="inst_F4D1424E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="270"/>
-    <instance objName="obj_slot_h" x="248" y="248" name="inst_A3A1B8C2" locked="0" code="open=true&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_slot_v" x="152" y="184" name="inst_BDB94591" locked="0" code="open=true&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_slot_h" x="248" y="248" name="inst_A3A1B8C2" locked="0" code="door=1&#xA;open=true&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_slot_v" x="152" y="184" name="inst_BDB94591" locked="0" code="open=true&#xA;door=0&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_buttonph" x="168" y="176" name="inst_3D0769C7" locked="0" code="door=0&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_buttonph" x="264" y="256" name="inst_845C7119" locked="0" code="door=1&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

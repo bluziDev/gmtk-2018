@@ -18,6 +18,7 @@
     <sprite>sprites\spr_crate</sprite>
     <sprite>sprites\spr_hider_crate</sprite>
     <sprite>sprites\spr_crate_large</sprite>
+    <sprite>sprites\spr_buttonph</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_tile_vinyl</background>
@@ -41,6 +42,7 @@
     <object>objects\obj_crate_large</object>
     <object>objects\obj_hider_crate</object>
     <object>objects\obj_hider_parent</object>
+    <object>objects\obj_buttonph</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_game</room>
