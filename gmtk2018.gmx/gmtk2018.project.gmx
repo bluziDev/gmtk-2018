@@ -43,6 +43,7 @@
     <object>objects\obj_hider_crate</object>
     <object>objects\obj_hider_parent</object>
     <object>objects\obj_buttonph</object>
+    <object>objects\obj_doorCol</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_game</room>
